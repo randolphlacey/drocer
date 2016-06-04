@@ -1,161 +1,73 @@
 The City Record
 Official Publication of the Council of the City of Cleveland
 
-January the Seventh, Two Thousand and Fifteen
-
-Frank G. Jackson
-
 The City Record is available online at
 www.clevelandcitycouncil.org
 
-Mayor
+January the Seventh, Two Thousand and Fifteen
 
-Kevin J. Kelley
-President of Council
+Frank G. Jackson - Mayor
+Kevin J. Kelley - President of Council
 
-Containing
+Containing  PAGE
+City Council          3
+The Calendar          12
+Board of Control      12
+Civil Service         12
+Board of Zoning Appeals     12
+Board of Building Standards and Building Appeals  13
+Public Notice         13
+Public Hearings       13
+City of Cleveland Bids    13
+Adopted Resolutions and Ordinances    14
+Committee Meetings        14
+Index                     14
 
-PAGE
-
-City Council
-
-3
-
-The Calendar
-
-12
-
-Board of Control
-
-12
-
-Civil Service
-
-12
-
-1 Terrell H. Pruitt
-
-Board of Zoning Appeals
-
-12
-
-2 Zachary Reed
-3 Joe Cimperman
-
-Board of Building Standards
-and Building Appeals
-13
-
-4 Kenneth L. Johnson
-
-Public Notice
-
-13
-
-5 Phyllis E. Cleveland
-
-Public Hearings
-
-13
-
-6 Mamie J. Mitchell
-
-City of Cleveland Bids
-
-13
-
-7 TJ Dow
-
-Adopted Resolutions
-and Ordinances
-
-14
-
-Committee Meetings
-
-14
-
-Index
-
-14
+Ward  Name
+1     Terrell H. Pruitt
+2     Zachary Reed
+3     Joe Cimperman
+4     Kenneth L. Johnson
+5     Phyllis E. Cleveland
+6     Mamie J. Mitchell
+7     TJ Dow
+8     Michael D. Polensek
+9     Kevin Conwell
+10    Jeffrey D. Johnson
+11    Dona Brady
+12    Anthony Brancatelli
+13    Kevin J. Kelley
+14    Brian J. Cummins
+15    Matthew Zone
+16    Brian Kazy
+17    Martin J. Keane
 
 Patricia J. Britt
 City Clerk, Clerk of Council
 
-Ward Name
-
-8 Michael D. Polensek
-9 Kevin Conwell
-10 Jeffrey D. Johnson
-11 Dona Brady
-12 Anthony Brancatelli
-13 Kevin J. Kelley
-14 Brian J. Cummins
-15 Matthew Zone
-16 Brian Kazy
-17 Martin J. Keane
-
-Printed on Recycled Paper
-
-DIRECTORY OF CITY OFFICIALS
+DIRECTORY OF CITY OFFICIALS
 CITY COUNCIL – LEGISLATIVE
 President of Council – Kevin J. Kelley
-Ward
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
+Ward    Name                Residence
+1       Terrell H. Pruitt   16920 Throckley Avenue    44128
+2       Zack Reed           3734 East 149th Street    44120
+3       Joe Cimperman       P.O. Box 91688            44101
+4       Kenneth L. Johnson  2948 Hampton Road         44120
+5       Phyllis E. Cleveland  2369 East 36th Street   44105
+6       Mamie J. Mitchell   12701 Shaker Boulevard, #712  44120
+7       TJ Dow              7715 Decker Avenue        44103
+8       Michael D. Polensek 17855 Brian Avenue        44119
+9       Kevin Conwell       10647 Ashbury Avenue      44106
+10      Jeffrey D. Johnson  9024 Parkgate Avenue      44108
+11      Dona Brady          1272 West Boulevard       44102
+12      Anthony Brancatelli 6924 Ottawa Road          44105
+13      Kevin J. Kelley     5904 Parkridge Avenue     44144
+14      Brian J. Cummins    3104 Mapledale Avenue     44109
+15      Matthew Zone        1228 West 69th Street     44102
+16      Brian Kazy          601 Lakeside Avenue, Room 220  44114
+17      Martin J. Keane     15907 Colletta Lane       44111
+City Clerk, Clerk of Council – Patricia J. Britt City Hall 216-664–2840
 
-Name
-Residence
-Terrell H. Pruitt ..............................................16920 Throckley Avenue
-44128
-Zack Reed ..........................................................3734 East 149th Street
-44120
-Joe Cimperman .............................................................P.O. Box 91688
-44101
-Kenneth L. Johnson...............................................2948 Hampton Road
-44120
-Phyllis E. Cleveland.............................................2369 East 36th Street
-44105
-Mamie J. Mitchell.................................12701 Shaker Boulevard, #712
-44120
-TJ Dow..................................................................7715 Decker Avenue
-44103
-44119
-Michael D. Polensek..............................................17855 Brian Avenue
-Kevin Conwell ..................................................10647 Ashbury Avenue
-44106
-Jeffrey D. Johnson ..............................................9024 Parkgate Avenue
-44108
-Dona Brady ..........................................................1272 West Boulevard
-44102
-Anthony Brancatelli .................................................6924 Ottawa Road
-44105
-Kevin J. Kelley..................................................5904 Parkridge Avenue
-44144
-Brian J. Cummins ............................................3104 Mapledale Avenue
-44109
-Matthew Zone .....................................................1228 West 69th Street
-44102
-Brian Kazy.........................................601 Lakeside Avenue, Room 220
-44114
-44111
-Martin J. Keane......................................................15907 Colletta Lane
-City Clerk, Clerk of Council – Patricia J. Britt, 216 City Hall, 664–2840
 MAYOR – Frank G. Jackson
 Ken Silliman, Secretary to the Mayor, Chief of Staff
 Darnell Brown, Executive Assistant to the Mayor, Chief Operating Officer
@@ -167,6 +79,7 @@ Jenita McGowan, Executive Assistant to the Mayor, Chief of Sustainability
 Natoya J. Walker Minor, Executive Assistant to the Mayor, Chief of Public Affairs
 Edward W. Rybka, Executive Assistant to the Mayor, Chief of Regional Development
 OFFICE OF CAPITAL PROJECTS – Matthew L. Spronz, Director
+
 DIVISIONS:
 Architecture and Site Development – Robert Vilkas, Chief Architect, Manager
 Engineering and Construction — Richard J. Switalski, Manager
@@ -175,6 +88,7 @@ OFFICE OF EQUAL OPPORTUNITY – Melissa K. Burrows, Ph.D., Director
 DEPT. OF LAW – Barbara A. Langhenry, Director, Gary D. Singletary, Chief Counsel,
 Richard F. Horvath, Chief Corporate Counsel, Thomas J. Kaiser, Chief Trial Counsel,
 Room 106: John Skrtic, Law Librarian, Room 100
+
 DEPT. OF FINANCE – Sharon Dumas, Director, Room 104;
 Natasha Brandt, Manager, Internal Audit
 DIVISIONS:
@@ -182,17 +96,18 @@ Accounts – Lonya Moss Walker, Commissioner, Room 19
 Assessments and Licenses – Dedrick Stephens, Commissioner, Room 122
 City Treasury – James Hartley, Interim Treasurer, Room 115
 Financial Reporting and Control – James Gentile, Controller, Room 18
-Information Technology and Services – Douglas Divish, Commissioner, 205 W. St. Clair
-Avenue
+Information Technology and Services – Douglas Divish, Commissioner, 205 W. St. Clair Avenue
 Purchases and Supplies – Tiffany White, Commissioner, Room 128
 Printing and Reproduction – Michael Hewitt, Commissioner, 1735 Lakeside Avenue
 Taxation – Nassim Lynch, Tax Administrator, 205 W. St. Clair Avenue
+
 DEPT. OF PUBLIC UTILITIES – Sharon Dumas, Interim Director, 1201 Lakeside Avenue
 DIVISIONS:
 Cleveland Public Power – Ivan Henderson, Commissioner
 Utilities Fiscal Control – Frank Badalamenti, Chief Financial Officer
 Water – Alex Margevicius, Interim Commissioner
 Water Pollution Control – Rachid Zoghaib, Commissioner
+
 DEPT. OF PORT CONTROL – Ricky D. Smith, Director, Cleveland Hopkins
 International Airport, 5300 Riverside Drive
 DIVISIONS:
@@ -211,6 +126,7 @@ Recreation – Samuel Gissentaner, Interim Commissioner
 Streets – Randell T. Scott, Interim Commissioner
 Traffic Engineering – Robert Mavec, Commissioner
 Waste Collection and Disposal – Randell T. Scott, Interim Commissioner
+
 DEPT. OF PUBLIC HEALTH – Toinette Parrilla, Director, 75 Erieview Plaza
 DIVISIONS:
 Air Quality – George Baker, Commissioner
@@ -224,65 +140,84 @@ Correction – Robert Taskey, Commissioner, Cleveland House of Corrections, 4041
 Emergency Medical Service – Nicole Carlton, Acting Commissioner, 1708 South Pointe Drive
 Fire – Patrick Kelly, Chief, 1645 Superior Avenue
 Police – Calvin D. Williams, Chief, Police Hdqtrs. Bldg., 1300 Ontario Street
+
 DEPT. OF COMMUNITY DEVELOPMENT – Daryl Rush, Director
 DIVISIONS:
 Administrative Services – Jesus Rodriguez, Commissioner
 Fair Housing and Consumer Affairs Office – John Mahoney, Manager
 Neighborhood Development –Chris Garland, Commissioner
 Neighborhood Services – Louise V. Jackson, Commissioner
+
 DEPT. OF BUILDING AND HOUSING – Ronald J.H. O'Leary, Director, Room 500
 DIVISIONS:
 Code Enforcement – Thomas E. Vanover, Commissioner
 Construction Permitting – Narid Hussain, Commissioner
+
 DEPT. OF HUMAN RESOURCES – Deborah Southerington, Director, Room 121
 DEPT. OF ECONOMIC DEVELOPMENT – Tracey A. Nichols, Director, Room 210
 DEPT. OF AGING – Jane Fumich, Director, Room 122
+
 COMMUNITY RELATIONS BOARD – Room 11, Blaine Griffin, Director, Mayor Frank
 G. Jackson, Chairman Ex-Officio; Rev. Dr. Charles P. Lucas, Jr., Vice-Chairman, Council
 Member Brian Cummins, Eugene R. Miller (Board Lawyer), Roosevelt E. Coats, Jenice
 Contreras, Kathryn Hall, Yasir Hamdallah, Evangeline Hardaway, John O. Horton, Gary
 Johnson, Sr., Daniel McNea, Stephanie Morrison-Hrbek, Roland Muhammad, Gia Hoa
 Ryan, Peter Whitt.
+
 CIVIL SERVICE COMMISSION – Room 119, Robert Bennett, President; Michael L.
 Nelson, Sr., Vice-President; Lucille Ambroz, Secretary; Members: Pastor Gregory Jordan,
 Michael Flickinger.
-SINKING FUND COMMISSION – Frank G. Jackson, President; Council President Kevin
-J. Kelley; Betsy Hruby, Asst. Sec’y.; Sharon Dumas, Director.
+
+SINKING FUND COMMISSION – Frank G. Jackson, President; 
+Council President -  Kevin J. Kelley; Betsy Hruby, Asst. Sec’y.; Sharon Dumas, Director.
+
 BOARD OF ZONING APPEALS – Room 516, Carol A. Johnson, Chairman; Members;
 Mary Haas McGraw, Ozell Dobbins, Joan Shaver Washington, Tim Donovan, Elizabeth
 Kukla, Secretary.
+
 BOARD OF BUILDING STANDARDS AND BUILDING APPEALS – Room 516,
 Joseph F. Denk, Chairman; Howard Bradley, Patrick M. Gallagher, Robert Maschke, Halim
 M. Saab, P.E., Alternate Members – D. Cox, P. Frank, E. P. O’Brien, Richard Pace, J.F.
 Sullivan.
+
 BOARD OF REVISION OF ASSESSMENTS – Law Director Barbara A. Langhenry,
 President; Finance Director Sharon Dumas, Secretary; Council President Kevin J. Kelley.
+
 BOARD OF SIDEWALK APPEALS – Capital Projects Director Matthew Spronz, Law
 Director Barbara A. Langhenry; Council Member Kenneth L. Johnson.
+
 BOARD OF REVIEW – (Municipal Income Tax) – Law Director Barbara A. Langhenry;
 Utilities Director Paul Bender; Council President Kevin J. Kelley.
+
 CITY PLANNING COMMISSION – Room 501 – Freddy L. Collier, Jr., Director; Anthony
 J. Coyne, Chairman; David H. Bowen, Lillian Kuri, Lawrence A. Lumpkin, Gloria Jean
 Pinkney, Norman Krumholz, Council Member Phyllis E. Cleveland.
+
 FAIR HOUSING BOARD – Charles See, Chair; Lisa Camacho, Daniel Conway, Robert L.
 Render, Genesis O. Brown.
+
 HOUSING ADVISORY BOARD – Room 310 – Keith Brown, Terri Hamilton Brown,Vickie
 Eaton-Johnson, Mike Foley, Eric Hodderson, Janet Loehr, Mark McDermott, Marcia Nolan,
 David Perkowski, Joan Shaver Washington, Keith Sutton.
-CLEVELAND BOXING AND WRESTLING COMMISSION – Robert Jones, Chairman;
-Clint Martin, Mark Rivera.
+
+CLEVELAND BOXING AND WRESTLING COMMISSION – Robert Jones, Chairman; Clint Martin, Mark Rivera.
+
 MORAL CLAIMS COMMISSION – Law Director Barbara A. Langhenry; Chairman;
 Finance Director Sharon Dumas; Council President Kevin J. Kelley; Councilman
 Kevin Kelley.
+
 POLICE REVIEW BOARD – Thomas Jones, Board Chair Person; Vernon Collier, Vermel
 Whalen, Nancy Cronin, Elvin Vauss.
+
 CLEVELAND LANDMARKS COMMISSION – Room 519 – Jennifer Coleman, Chair;
 Laura M. Bala, Freddy L. Collier, Jr., Allan Dreyer, Giancarlo Calicchia, Council Member
 Terrell H. Pruitt, Robert Strickland, Julie Trott, Robert Vilkas, Donald Petit, Interim
 Secretary.
+
 AUDIT COMMITTEE – Yvette M. Ittu, Chairman; Debra Janik, Bracy Lewis, Diane
 Downing, Donna Sciarappa, Council President Kevin J. Kelley; Law Director Barbara A.
 Langhenry.
+
 CLEVELAND MUNICIPAL COURT
 JUSTICE CENTER – 1200 ONTARIO STREET
 JUDGE COURTROOM ASSIGNMENTS
@@ -304,74 +239,45 @@ Earle B. Turner – Clerk of Courts, Russell R. Brown III – Court Administrato
 – Chief Bailiff; Jerome M. Krakowski – Chief Probation Officer, Gregory F. Clifford – Chief
 Magistrate, Victor Perez – City Prosecutor
 
-The City Record
+                The City Record
 OFFICIAL PUBLICATION OF THE COUNCIL OF THE CITY OF CLEVELAND
-
-WEDNESDAY, JANUARY 7, 2015
-
-Vol. 102
-
-No. 5274
+Vol. 102      WEDNESDAY, JANUARY 7, 2015      No. 5274
 
 CITY COUNCIL
 MONDAY, JANUARY 5, 2015
+
 The City Record
-Published weekly by the City Clerk,
-Clerk of Council under authority
-of the Charter of the
-City of Cleveland
-The City Record is available
-online at
-www.clevelandcitycouncil.org
+Published weekly by the City Clerk, Clerk of Council under authority of the Charter of the City of Cleveland.
+The City Record is available online at www.clevelandcitycouncil.org
 Address all communications to
-
-The following Committees meet at
-the Call of the Chair:
-Mayor's Appointments Committee:
-Dow (CHAIR), Brady, Cleveland,
-Kelley, Mitchell.
-Operations
-Committee:
-Pruitt
-(CHAIR), Mitchell, Kelley, Keane,
-Zone.
-
 PATRICIA J. BRITT
 City Clerk, Clerk of Council
 216 City Hall
 
-PERMANENT SCHEDULE
-STANDING COMMITTEES
-OF THE COUNCIL
+The following Committees meet at the Call of the Chair:
+Mayor's Appointments Committee:
+Dow (CHAIR), Brady, Cleveland, Kelley, Mitchell.
+Operations Committee:
+Pruitt (CHAIR), Mitchell, Kelley, Keane, Zone.
+
+PERMANENT SCHEDULE STANDING COMMITTEES OF THE COUNCIL
 2015-2017
 MONDAY — Alternating
-9:30 A.M. — Health and Human
-Services
-Committee:
-Cimperman
-(CHAIR), Mitchell (VICE-CHAIR),
-Brady, Cleveland, Conwell, Cummins, J. Johnson.
-9:30 A.M. — Municipal Services
-and Properties Committee: K. Johnson (CHAIR), Dow (VICE-CHAIR),
-Brancatelli, Cummins, J. Johnson,
+9:30 A.M. — Health and Human Services Committee:
+Cimperman (CHAIR), Mitchell (VICE-CHAIR), Brady, Cleveland, Conwell, Cummins, J. Johnson.
+9:30 A.M. — Municipal Services and Properties Committee: K. Johnson (CHAIR), Dow (VICE-CHAIR), Brancatelli, Cummins, J. Johnson,
 Kazy, Reed.
 MONDAY
 2:00 P.M. — Finance Committee:
-Kelley (CHAIR), Cleveland (VICECHAIR), Brady, Brancatelli, Conwell, Keane, Mitchell, Pruitt, Zone.
+Kelley (CHAIR), Cleveland (VICECHAIR), Brady, Brancatelli, Conwell, Keane, Mitchell, Pruitt, Zone. 
 TUESDAY
-9:30 A.M. — Development, Planning and Sustainability Committee:
-Brancatelli
-(CHAIR),
-Cleveland
-(VICE-CHAIR), Cimperman, Cummins, Dow, Pruitt, Zone.
+9:30 A.M. — Development, Planning and Sustainability Committee: Brancatelli (CHAIR),Cleveland (VICE-CHAIR), Cimperman, Cummins, Dow, Pruitt, Zone
 TUESDAY — Alternating
-1:30 P.M. — Utilities Committee:
-(VICEPruitt
-(CHAIR),
+1:30 P.M. — Utilities Committee: (VICE-CHAIR) Pruitt (CHAIR),
 Brady
 Brancatelli,
 Cummins,
-CHAIR),
+
 Keane, Mitchell, Polensek.
 
 Rules
